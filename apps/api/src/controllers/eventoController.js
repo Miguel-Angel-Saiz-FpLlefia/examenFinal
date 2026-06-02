@@ -26,11 +26,13 @@ let eventos = [
 ];
 
 const getEventos = (req, res) => {
+  console.log("Peticion get sin id realizada");
   res.json({ dades: eventos, total: eventos.length });
 };
 
 const getEventoById = (req, res) => {
   const { id } = req.params;
+  console.log(`Peticion get con el id: ${id} realizada`);
   const evento = eventos.find((c) => c.id === id);
   if (!evento) {
     return res.status(404).json({ error: "Evento no encontrado", id });
