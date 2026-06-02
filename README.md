@@ -37,28 +37,28 @@
 | [ X ] | C10 — Codis HTTP coherents              | 0,2           |
 |       | **Subtotal C**                          | **3,0 / 3,0** |
 
-### D. Integració — màx. 1,0 · PR: \_\_\_
+### D. Integració — màx. 1,0 · PR: 1,0
 
-|     | Criteri                          | Punts            |
-| --- | -------------------------------- | ---------------- |
-| [ ] | D1 — `fetch` a `GET /api/events` | 0,3              |
-| [ ] | D2 — `loading`                   | 0,2              |
-| [ ] | D3 — Missatge d'error            | 0,2              |
-| [ ] | D4 — Llista des de l'API         | 0,2              |
-| [ ] | D5 — `EventCard` amb dades API   | 0,1              |
-|     | **Subtotal D**                   | **\_\_\_ / 1,0** |
+|       | Criteri                          | Punts         |
+| ----- | -------------------------------- | ------------- |
+| [ X ] | D1 — `fetch` a `GET /api/events` | 0,3           |
+| [ X ] | D2 — `loading`                   | 0,2           |
+| [ X ] | D3 — Missatge d'error            | 0,2           |
+| [ X ] | D4 — Llista des de l'API         | 0,2           |
+| [ X ] | D5 — `EventCard` amb dades API   | 0,1           |
+|       | **Subtotal D**                   | **1,0 / 1,0** |
 
 ### E. README i PR — màx. 1,0
 
-|     | Criteri                                          | Punts            |
-| --- | ------------------------------------------------ | ---------------- |
-| [ ] | E1 — README **només** aquest checklist (res més) | 0,3              |
-| [ ] | E2 — Checklist B, C, D complet                   | 0,2              |
-| [ ] | E3 — Els `[x]` coincideixen amb el codi          | 0,2              |
-| [ ] | E4 — PR B mergeada (enllaç a dalt)               | 0,1              |
-| [ ] | E5 — PR C mergeada (enllaç a dalt)               | 0,1              |
-| [ ] | E6 — PR D mergeada (enllaç a dalt)               | 0,1              |
-|     | **Subtotal E**                                   | **\_\_\_ / 1,0** |
+|       | Criteri                                          | Punts         |
+| ----- | ------------------------------------------------ | ------------- |
+| [ X ] | E1 — README **només** aquest checklist (res més) | 0,3           |
+| [ X ] | E2 — Checklist B, C, D complet                   | 0,2           |
+| [ X ] | E3 — Els `[x]` coincideixen amb el codi          | 0,2           |
+| [ X ] | E4 — PR B mergeada (enllaç a dalt)               | 0,1           |
+| [ X ] | E5 — PR C mergeada (enllaç a dalt)               | 0,1           |
+| [ X ] | E6 — PR D mergeada (enllaç a dalt)               | 0,1           |
+|       | **Subtotal E**                                   | **1,0 / 1,0** |
 
 ### Resum
 
