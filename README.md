@@ -31,7 +31,7 @@
 | [ X ] | C4 — `routes/` + `controllers/`         | 0,4              |
 | [ X ] | C5 — Dades en memòria                   | 0,2              |
 | [ X ] | C6 — Logger (mètode + ruta)             | 0,3              |
-| [ ]   | C7 — Errors en JSON                     | 0,3              |
+| [ X ] | C7 — Errors en JSON                     | 0,3              |
 | [ ]   | C8 — Detall amb `nom`, `data`, `ciutat` | 0,1              |
 | [ ]   | C9 — API arrenca en local               | 0,2              |
 | [ ]   | C10 — Codis HTTP coherents              | 0,2              |
