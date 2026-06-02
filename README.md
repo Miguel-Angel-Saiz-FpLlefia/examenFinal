@@ -23,19 +23,19 @@
 
 ### C. API (`apps/api`) — màx. 3,0 · PR: \_\_\_
 
-|     | Criteri                                 | Punts            |
-| --- | --------------------------------------- | ---------------- |
-| [ ] | C1 — `GET /api/events` → llistat JSON   | 0,5              |
-| [ ] | C2 — `GET /api/events/:id` → un event   | 0,5              |
-| [ ] | C3 — `id` inexistent → `404` JSON       | 0,5              |
-| [ ] | C4 — `routes/` + `controllers/`         | 0,4              |
-| [ ] | C5 — Dades en memòria                   | 0,2              |
-| [ ] | C6 — Logger (mètode + ruta)             | 0,3              |
-| [ ] | C7 — Errors en JSON                     | 0,3              |
-| [ ] | C8 — Detall amb `nom`, `data`, `ciutat` | 0,1              |
-| [ ] | C9 — API arrenca en local               | 0,2              |
-| [ ] | C10 — Codis HTTP coherents              | 0,2              |
-|     | **Subtotal C**                          | **\_\_\_ / 3,0** |
+|       | Criteri                                 | Punts            |
+| ----- | --------------------------------------- | ---------------- |
+| [ X ] | C1 — `GET /api/events` → llistat JSON   | 0,5              |
+| [ ]   | C2 — `GET /api/events/:id` → un event   | 0,5              |
+| [ ]   | C3 — `id` inexistent → `404` JSON       | 0,5              |
+| [ ]   | C4 — `routes/` + `controllers/`         | 0,4              |
+| [ ]   | C5 — Dades en memòria                   | 0,2              |
+| [ ]   | C6 — Logger (mètode + ruta)             | 0,3              |
+| [ ]   | C7 — Errors en JSON                     | 0,3              |
+| [ ]   | C8 — Detall amb `nom`, `data`, `ciutat` | 0,1              |
+| [ ]   | C9 — API arrenca en local               | 0,2              |
+| [ ]   | C10 — Codis HTTP coherents              | 0,2              |
+|       | **Subtotal C**                          | **\_\_\_ / 3,0** |
 
 ### D. Integració — màx. 1,0 · PR: \_\_\_
 
