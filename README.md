@@ -42,7 +42,7 @@
 |       | Criteri                          | Punts            |
 | ----- | -------------------------------- | ---------------- |
 | [ X ] | D1 — `fetch` a `GET /api/events` | 0,3              |
-| [ ]   | D2 — `loading`                   | 0,2              |
+| [ X ] | D2 — `loading`                   | 0,2              |
 | [ ]   | D3 — Missatge d'error            | 0,2              |
 | [ ]   | D4 — Llista des de l'API         | 0,2              |
 | [ ]   | D5 — `EventCard` amb dades API   | 0,1              |
