@@ -18,7 +18,7 @@
 | [ X ] | B5 — Almenys 4 events visibles                  | 0,3              |
 | [ X ] | B6 — Estil bàsic (CSS o Tailwind)               | 0,4              |
 | [ X ] | B7 — Carpetes `app/` i `components/`            | 0,3              |
-| [ ]   | B8 — Frontend arrenca sense errors bloquejants  | 0,1              |
+| [ X ] | B8 — Frontend arrenca sense errors bloquejants  | 0,1              |
 |       | **Subtotal B**                                  | **\_\_\_ / 3,0** |
 
 ### C. API (`apps/api`) — màx. 3,0 · PR: \_\_\_
