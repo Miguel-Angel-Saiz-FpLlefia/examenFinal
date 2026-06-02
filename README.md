@@ -13,7 +13,7 @@
 | [ X ] | B0 — Monorepo amb `apps/web` i `apps/api`       | 0,2              |
 | [ X ] | B1 — `app/page.tsx` amb títol                   | 0,2              |
 | [ X ] | B2 — `app/events/page.tsx` funcional            | 0,4              |
-| [ ]   | B3 — `EventCard` reutilitzable                  | 0,5              |
+| [ X ] | B3 — `EventCard` reutilitzable                  | 0,5              |
 | [ ]   | B4 — Targetes amb `id`, `nom`, `data`, `ciutat` | 0,6              |
 | [ ]   | B5 — Almenys 4 events visibles                  | 0,3              |
 | [ ]   | B6 — Estil bàsic (CSS o Tailwind)               | 0,4              |
