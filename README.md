@@ -28,7 +28,7 @@
 | [ X ] | C1 — `GET /api/events` → llistat JSON   | 0,5              |
 | [ X ] | C2 — `GET /api/events/:id` → un event   | 0,5              |
 | [ X ] | C3 — `id` inexistent → `404` JSON       | 0,5              |
-| [ ]   | C4 — `routes/` + `controllers/`         | 0,4              |
+| [ X ] | C4 — `routes/` + `controllers/`         | 0,4              |
 | [ ]   | C5 — Dades en memòria                   | 0,2              |
 | [ ]   | C6 — Logger (mètode + ruta)             | 0,3              |
 | [ ]   | C7 — Errors en JSON                     | 0,3              |
