@@ -8,18 +8,18 @@
 
 ### B. Frontend (`apps/web`) — màx. 3,0 · PR: \_\_\_
 
-|     | Criteri                                         | Punts            |
-| --- | ----------------------------------------------- | ---------------- |
-| [ ] | B0 — Monorepo amb `apps/web` i `apps/api`       | 0,2              |
-| [ ] | B1 — `app/page.tsx` amb títol                   | 0,2              |
-| [ ] | B2 — `app/events/page.tsx` funcional            | 0,4              |
-| [ ] | B3 — `EventCard` reutilitzable                  | 0,5              |
-| [ ] | B4 — Targetes amb `id`, `nom`, `data`, `ciutat` | 0,6              |
-| [ ] | B5 — Almenys 4 events visibles                  | 0,3              |
-| [ ] | B6 — Estil bàsic (CSS o Tailwind)               | 0,4              |
-| [ ] | B7 — Carpetes `app/` i `components/`            | 0,3              |
-| [ ] | B8 — Frontend arrenca sense errors bloquejants  | 0,1              |
-|     | **Subtotal B**                                  | **\_\_\_ / 3,0** |
+|       | Criteri                                         | Punts            |
+| ----- | ----------------------------------------------- | ---------------- |
+| [ X ] | B0 — Monorepo amb `apps/web` i `apps/api`       | 0,2              |
+| [ X ] | B1 — `app/page.tsx` amb títol                   | 0,2              |
+| [ ]   | B2 — `app/events/page.tsx` funcional            | 0,4              |
+| [ ]   | B3 — `EventCard` reutilitzable                  | 0,5              |
+| [ ]   | B4 — Targetes amb `id`, `nom`, `data`, `ciutat` | 0,6              |
+| [ ]   | B5 — Almenys 4 events visibles                  | 0,3              |
+| [ ]   | B6 — Estil bàsic (CSS o Tailwind)               | 0,4              |
+| [ ]   | B7 — Carpetes `app/` i `components/`            | 0,3              |
+| [ ]   | B8 — Frontend arrenca sense errors bloquejants  | 0,1              |
+|       | **Subtotal B**                                  | **\_\_\_ / 3,0** |
 
 ### C. API (`apps/api`) — màx. 3,0 · PR: \_\_\_
 
@@ -70,4 +70,5 @@
 | D. Integració  |       | 1,0      |
 | E. README + PR |       | 1,0      |
 | **TOTAL**      |       | **10,0** |
+
 # examenFinal
