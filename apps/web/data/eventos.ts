@@ -24,4 +24,10 @@ export const Eventos: Resource[] = [
     data: "2026-10-06",
     ciutat: "Barcelona",
   },
+  {
+    id: 4,
+    nom: "JoCuenca",
+    data: "2027-01-25",
+    ciutat: "Cuenca",
+  },
 ];

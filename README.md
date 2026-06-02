@@ -15,7 +15,7 @@
 | [ X ] | B2 — `app/events/page.tsx` funcional            | 0,4              |
 | [ X ] | B3 — `EventCard` reutilitzable                  | 0,5              |
 | [ X ] | B4 — Targetes amb `id`, `nom`, `data`, `ciutat` | 0,6              |
-| [ ]   | B5 — Almenys 4 events visibles                  | 0,3              |
+| [ X ] | B5 — Almenys 4 events visibles                  | 0,3              |
 | [ ]   | B6 — Estil bàsic (CSS o Tailwind)               | 0,4              |
 | [ ]   | B7 — Carpetes `app/` i `components/`            | 0,3              |
 | [ ]   | B8 — Frontend arrenca sense errors bloquejants  | 0,1              |
