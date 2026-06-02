@@ -6,20 +6,20 @@
 
 | **Punts A** | \_\_\_ / 2,0 (professorat) |
 
-### B. Frontend (`apps/web`) — màx. 3,0 · PR: \_\_\_
+### B. Frontend (`apps/web`) — màx. 3,0 · PR: 3,0
 
-|       | Criteri                                         | Punts            |
-| ----- | ----------------------------------------------- | ---------------- |
-| [ X ] | B0 — Monorepo amb `apps/web` i `apps/api`       | 0,2              |
-| [ X ] | B1 — `app/page.tsx` amb títol                   | 0,2              |
-| [ X ] | B2 — `app/events/page.tsx` funcional            | 0,4              |
-| [ X ] | B3 — `EventCard` reutilitzable                  | 0,5              |
-| [ X ] | B4 — Targetes amb `id`, `nom`, `data`, `ciutat` | 0,6              |
-| [ X ] | B5 — Almenys 4 events visibles                  | 0,3              |
-| [ X ] | B6 — Estil bàsic (CSS o Tailwind)               | 0,4              |
-| [ X ] | B7 — Carpetes `app/` i `components/`            | 0,3              |
-| [ X ] | B8 — Frontend arrenca sense errors bloquejants  | 0,1              |
-|       | **Subtotal B**                                  | **\_\_\_ / 3,0** |
+|       | Criteri                                         | Punts         |
+| ----- | ----------------------------------------------- | ------------- |
+| [ X ] | B0 — Monorepo amb `apps/web` i `apps/api`       | 0,2           |
+| [ X ] | B1 — `app/page.tsx` amb títol                   | 0,2           |
+| [ X ] | B2 — `app/events/page.tsx` funcional            | 0,4           |
+| [ X ] | B3 — `EventCard` reutilitzable                  | 0,5           |
+| [ X ] | B4 — Targetes amb `id`, `nom`, `data`, `ciutat` | 0,6           |
+| [ X ] | B5 — Almenys 4 events visibles                  | 0,3           |
+| [ X ] | B6 — Estil bàsic (CSS o Tailwind)               | 0,4           |
+| [ X ] | B7 — Carpetes `app/` i `components/`            | 0,3           |
+| [ X ] | B8 — Frontend arrenca sense errors bloquejants  | 0,1           |
+|       | **Subtotal B**                                  | **3,0 / 3,0** |
 
 ### C. API (`apps/api`) — màx. 3,0 · PR: \_\_\_
 
