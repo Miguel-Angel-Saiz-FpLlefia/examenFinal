@@ -21,21 +21,21 @@
 | [ X ] | B8 — Frontend arrenca sense errors bloquejants  | 0,1           |
 |       | **Subtotal B**                                  | **3,0 / 3,0** |
 
-### C. API (`apps/api`) — màx. 3,0 · PR: \_\_\_
+### C. API (`apps/api`) — màx. 3,0 · PR: 3,0
 
-|       | Criteri                                 | Punts            |
-| ----- | --------------------------------------- | ---------------- |
-| [ X ] | C1 — `GET /api/events` → llistat JSON   | 0,5              |
-| [ X ] | C2 — `GET /api/events/:id` → un event   | 0,5              |
-| [ X ] | C3 — `id` inexistent → `404` JSON       | 0,5              |
-| [ X ] | C4 — `routes/` + `controllers/`         | 0,4              |
-| [ X ] | C5 — Dades en memòria                   | 0,2              |
-| [ X ] | C6 — Logger (mètode + ruta)             | 0,3              |
-| [ X ] | C7 — Errors en JSON                     | 0,3              |
-| [ X ] | C8 — Detall amb `nom`, `data`, `ciutat` | 0,1              |
-| [ X ] | C9 — API arrenca en local               | 0,2              |
-| [ X ] | C10 — Codis HTTP coherents              | 0,2              |
-|       | **Subtotal C**                          | **\_\_\_ / 3,0** |
+|       | Criteri                                 | Punts         |
+| ----- | --------------------------------------- | ------------- |
+| [ X ] | C1 — `GET /api/events` → llistat JSON   | 0,5           |
+| [ X ] | C2 — `GET /api/events/:id` → un event   | 0,5           |
+| [ X ] | C3 — `id` inexistent → `404` JSON       | 0,5           |
+| [ X ] | C4 — `routes/` + `controllers/`         | 0,4           |
+| [ X ] | C5 — Dades en memòria                   | 0,2           |
+| [ X ] | C6 — Logger (mètode + ruta)             | 0,3           |
+| [ X ] | C7 — Errors en JSON                     | 0,3           |
+| [ X ] | C8 — Detall amb `nom`, `data`, `ciutat` | 0,1           |
+| [ X ] | C9 — API arrenca en local               | 0,2           |
+| [ X ] | C10 — Codis HTTP coherents              | 0,2           |
+|       | **Subtotal C**                          | **3,0 / 3,0** |
 
 ### D. Integració — màx. 1,0 · PR: \_\_\_
 
